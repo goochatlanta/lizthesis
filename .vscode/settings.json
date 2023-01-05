@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/distributional_models/**": true,
+        "**/performance_dictionaries/**": true,
+        "**/runs/**": true
+    }
+}

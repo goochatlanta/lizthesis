@@ -1,0 +1,10 @@
+{
+    "learning_rate": 3e-1,
+    "num_epochs": 25,
+    "dropout_rate":0.1, 
+    "num_channels": 32,
+    "save_summary_steps": 200,
+    "num_workers": 4,
+    "training_length": 20000,
+    "eval_length": 4000
+}
